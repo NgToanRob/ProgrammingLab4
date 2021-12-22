@@ -3,7 +3,7 @@
 </p>
 <p align="center" style ="font-size: 24px"><em>Факультет мехатроники и робототехники</em></p>
 
-<p align="center" style ="font-size: 24px"><strong>Лабораторная работа №1 </br>
+<p align="center" style ="font-size: 24px"><strong>Лабораторная работа №4 </br>
 По дисциплине : «Программирование»</br>
 Вариант 9</strong>
 </p>
