@@ -5,7 +5,7 @@
 
 <p align="center" style ="font-size: 24px"><strong>Лабораторная работа №1 </br>
 По дисциплине : «Программирование»</br>
-Вариант 215521</strong>
+Вариант 9</strong>
 </p>
 <p align="left">Преподаватель: <strong>Райла Мартин</strong></br>
 Выполнил: <strong>Нгуен Тоан</strong></br>
